@@ -197,9 +197,7 @@
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "_fonte": "OpenSans-Regular",
-   "effect": "sombra",
-   "effectColor": "#000000"
+   "_fonte": "OpenSans-Regular"
   },
   {
    "id": "modelo-10-tx-2",
