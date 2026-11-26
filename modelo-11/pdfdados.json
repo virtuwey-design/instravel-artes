@@ -1,6 +1,20 @@
 {
  "layers": [
   {
+   "id": "modelo-11-el-6",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-11/p6.webp?v=2",
+   "x": 0.8143,
+   "y": 0.7571,
+   "scale": 1,
+   "rotation": 0,
+   "opacity": 1,
+   "width": 0.2007,
+   "ratio": 0.8128,
+   "_vec": 1,
+   "_under": true
+  },
+  {
    "id": "modelo-11-el-1",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-11/p1.webp?v=2",
@@ -66,19 +80,6 @@
    "_i": 6
   },
   {
-   "id": "modelo-11-el-6",
-   "kind": "image",
-   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-11/p6.webp?v=2",
-   "x": 0.8143,
-   "y": 0.7571,
-   "scale": 1,
-   "rotation": 0,
-   "opacity": 1,
-   "width": 0.2007,
-   "ratio": 0.8128,
-   "_vec": 1
-  },
-  {
    "id": "modelo-11-el-7",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-11/p7.webp?v=2",
@@ -89,7 +90,8 @@
    "opacity": 1,
    "width": 0.1591,
    "ratio": 0.9658,
-   "_vec": 1
+   "_vec": 1,
+   "_under": false
   }
  ],
  "textos": [
