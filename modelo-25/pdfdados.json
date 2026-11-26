@@ -60,13 +60,13 @@
    "id": "modelo-25-el-1",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-25/p1.webp?v=2",
-   "x": 0.348,
-   "y": 0.8435,
+   "x": 0.3478,
+   "y": 0.8438,
    "scale": 1,
    "rotation": -26.29,
    "opacity": 1,
-   "width": 0.3046,
-   "ratio": 1.1077,
+   "width": 0.3039,
+   "ratio": 1.108,
    "_i": 4
   },
   {
@@ -74,12 +74,12 @@
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-25/p2.webp?v=2",
    "x": 0.3,
-   "y": 0.3781,
+   "y": 0.3746,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.35,
-   "ratio": 1.3404,
+   "width": 0.3165,
+   "ratio": 1.6481,
    "_i": 5
   },
   {

@@ -4,13 +4,13 @@
    "id": "modelo-44-el-1",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-44/p1.webp?v=2",
-   "x": 0.3293,
+   "x": 0.3333,
    "y": 0.1691,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.1824,
-   "ratio": 1.0944,
+   "width": 0.1619,
+   "ratio": 0.9848,
    "_i": 3
   },
   {
@@ -18,11 +18,11 @@
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-44/p2.webp?v=2",
    "x": 0.3541,
-   "y": 0.8048,
+   "y": 0.8053,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.1019,
+   "width": 0.0955,
    "ratio": 1.0,
    "_i": 4
   }

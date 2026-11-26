@@ -18,13 +18,13 @@
    "id": "modelo-45-el-1",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-45/p1.webp?v=2",
-   "x": 0.3249,
-   "y": 0.486,
+   "x": 0.3244,
+   "y": 0.4857,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.5578,
-   "ratio": 0.7068,
+   "width": 0.5568,
+   "ratio": 0.7065,
    "_i": 1
   },
   {
@@ -45,51 +45,51 @@
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-45/p3.webp?v=2",
    "x": 0.6434,
-   "y": 0.6921,
+   "y": 0.6917,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
    "width": 0.4618,
-   "ratio": 1.0,
+   "ratio": 1.0031,
    "_i": 6
   },
   {
    "id": "modelo-45-el-4",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-45/p4.webp?v=2",
-   "x": 0.5577,
-   "y": 0.3442,
+   "x": 0.5593,
+   "y": 0.3402,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.1741,
-   "ratio": 1.0,
+   "width": 0.1414,
+   "ratio": 1.0744,
    "_i": 8
   },
   {
    "id": "modelo-45-el-5",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-45/p5.webp?v=2",
-   "x": 0.4752,
-   "y": 0.3653,
+   "x": 0.4759,
+   "y": 0.3636,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.0722,
-   "ratio": 1.0,
+   "width": 0.0587,
+   "ratio": 1.0744,
    "_i": 9
   },
   {
    "id": "modelo-45-el-6",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-45/p6.webp?v=2",
-   "x": 0.087,
-   "y": 0.4665,
+   "x": 0.0887,
+   "y": 0.4625,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.1741,
-   "ratio": 1.0,
+   "width": 0.1414,
+   "ratio": 1.0744,
    "_i": 10
   }
  ],
@@ -97,23 +97,23 @@
  "areas": [
   {
    "x": 0.0707,
-   "y": 0.2293,
-   "width": 0.5102,
-   "height": 0.5108,
+   "y": 0.2775,
+   "width": 0.511,
+   "height": 0.4145,
    "radius": 0,
    "rotation": 0.0,
-   "cx": 0.32577892350561827,
-   "cy": 0.48469590081108943
+   "cx": 0.32617079181435665,
+   "cy": 0.48481756846110025
   },
   {
    "x": 0.4073,
-   "y": 0.1144,
-   "width": 0.4691,
-   "height": 0.2639,
+   "y": 0.1551,
+   "width": 0.4688,
+   "height": 0.1824,
    "radius": 0,
    "rotation": 0.0,
-   "cx": 0.6418433672116126,
-   "cy": 0.2463881810506185
+   "cx": 0.6416752756377797,
+   "cy": 0.24629359775119358
   },
   {
    "x": 0.5264,
@@ -122,18 +122,18 @@
    "height": 0.1861,
    "radius": 0,
    "rotation": -13.56,
-   "cx": 0.6987677793787282,
-   "cy": 0.4462346220602958
+   "cx": 0.6987677760206484,
+   "cy": 0.44623463584355405
   },
   {
    "x": 0.438,
    "y": 0.5759,
-   "width": 0.4123,
+   "width": 0.4122,
    "height": 0.2296,
    "radius": 0,
    "rotation": 0.0,
-   "cx": 0.6441274949062018,
-   "cy": 0.6907016966078017
+   "cx": 0.6441274572301794,
+   "cy": 0.6906968434651692
   }
  ]
 }

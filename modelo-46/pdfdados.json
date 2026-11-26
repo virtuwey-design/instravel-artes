@@ -18,38 +18,38 @@
    "id": "modelo-46-el-1",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-46/p1.webp?v=2",
-   "x": 0.876,
-   "y": 0.6235,
+   "x": 0.8807,
+   "y": 0.6233,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.1769,
-   "ratio": 1.0791,
+   "width": 0.1619,
+   "ratio": 0.9981,
    "_i": 9
   },
   {
    "id": "modelo-46-el-2",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-46/p2.webp?v=2",
-   "x": 0.8117,
-   "y": 0.3805,
+   "x": 0.8127,
+   "y": 0.3823,
    "scale": 1,
    "rotation": 149.92,
    "opacity": 1,
-   "width": 0.1287,
-   "ratio": 1.0,
+   "width": 0.1155,
+   "ratio": 1.0195,
    "_i": 10
   },
   {
    "id": "modelo-46-el-3",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-46/p3.webp?v=2",
-   "x": 0.1455,
-   "y": 0.3348,
+   "x": 0.1465,
+   "y": 0.3353,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.162,
+   "width": 0.16,
    "ratio": 1.0,
    "_i": 11
   },
@@ -57,12 +57,12 @@
    "id": "modelo-46-el-4",
    "kind": "image",
    "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-46/p4.webp?v=2",
-   "x": 0.1778,
-   "y": 0.6451,
+   "x": 0.1787,
+   "y": 0.6456,
    "scale": 1,
    "rotation": 0.0,
    "opacity": 1,
-   "width": 0.1556,
+   "width": 0.1536,
    "ratio": 1.0,
    "_i": 12
   }
@@ -77,7 +77,7 @@
    "radius": 0,
    "rotation": 0.0,
    "cx": 0.6716736404984086,
-   "cy": 0.2766889572143555
+   "cy": 0.2766889360215929
   },
   {
    "x": 0.1603,
@@ -96,8 +96,8 @@
    "height": 0.1549,
    "radius": 0,
    "rotation": -12.69,
-   "cx": 0.6609510253913388,
-   "cy": 0.5257841531833866
+   "cx": 0.6609510270335027,
+   "cy": 0.525784156759625
   },
   {
    "x": 0.1766,
@@ -106,8 +106,8 @@
    "height": 0.1531,
    "radius": 0,
    "rotation": 15.18,
-   "cx": 0.3183124553095398,
-   "cy": 0.2538337170490387
+   "cx": 0.3183124582788637,
+   "cy": 0.2538336997889088
   }
  ]
 }
