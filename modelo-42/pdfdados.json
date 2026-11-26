@@ -1,0 +1,50 @@
+{
+ "layers": [
+  {
+   "id": "modelo-42-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-42/p1.webp?v=2",
+   "x": 0.4998,
+   "y": 0.5,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 1.0,
+   "ratio": 0.5625,
+   "_i": 3
+  }
+ ],
+ "textos": [],
+ "areas": [
+  {
+   "x": 0.0,
+   "y": -0.0,
+   "width": 1.0,
+   "height": 0.3333,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.5,
+   "cy": 0.16662876341078017
+  },
+  {
+   "x": -0.0014,
+   "y": 0.3333,
+   "width": 1.0023,
+   "height": 0.3333,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.49973290054886427,
+   "cy": 0.5000000105963813
+  },
+  {
+   "x": 0.0,
+   "y": 0.6665,
+   "width": 1.0,
+   "height": 0.3333,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.5,
+   "cy": 0.8331835322909885
+  }
+ ]
+}

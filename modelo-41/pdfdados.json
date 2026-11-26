@@ -1,0 +1,50 @@
+{
+ "layers": [
+  {
+   "id": "modelo-41-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-41/p1.webp?v=2",
+   "x": 0.1808,
+   "y": 0.5071,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.9778,
+   "ratio": 0.4681,
+   "_i": 3
+  }
+ ],
+ "textos": [],
+ "areas": [
+  {
+   "x": 0.0,
+   "y": -0.0,
+   "width": 1.0,
+   "height": 0.3333,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.5,
+   "cy": 0.16662876341078017
+  },
+  {
+   "x": 0.0,
+   "y": 0.3332,
+   "width": 1.0,
+   "height": 0.3333,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.5,
+   "cy": 0.49985022015041775
+  },
+  {
+   "x": -0.0014,
+   "y": 0.6667,
+   "width": 1.0023,
+   "height": 0.3333,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.49973290054886427,
+   "cy": 0.833333322736952
+  }
+ ]
+}

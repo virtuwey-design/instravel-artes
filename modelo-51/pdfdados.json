@@ -1,0 +1,139 @@
+{
+ "layers": [
+  {
+   "id": "modelo-51-el-5",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-51/p5.webp?v=2",
+   "x": 0.6531,
+   "y": 0.5909,
+   "scale": 1,
+   "rotation": 0,
+   "opacity": 1,
+   "width": 0.5579,
+   "ratio": 0.714,
+   "_vec": 1,
+   "_under": true
+  },
+  {
+   "id": "modelo-51-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-51/p1.webp?v=2",
+   "x": 0.2665,
+   "y": 0.591,
+   "scale": 1,
+   "rotation": 86.7,
+   "opacity": 1,
+   "width": 0.5667,
+   "ratio": 1.5,
+   "_i": 2
+  },
+  {
+   "id": "modelo-51-el-2",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-51/p2.webp?v=2",
+   "x": 0.3564,
+   "y": 0.4492,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1407,
+   "ratio": 1.0935,
+   "_i": 4
+  },
+  {
+   "id": "modelo-51-el-3",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-51/p3.webp?v=2",
+   "x": 0.9093,
+   "y": 0.4069,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1324,
+   "ratio": 1.0833,
+   "_i": 5
+  },
+  {
+   "id": "modelo-51-el-4",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-51/p4.webp?v=2",
+   "x": 0.2895,
+   "y": 0.2681,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.087,
+   "ratio": 0.6763,
+   "_i": 6
+  }
+ ],
+ "textos": [
+  {
+   "id": "modelo-51-tx-1",
+   "kind": "text",
+   "text": "F\u00e9rias",
+   "family": "yesteryear",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.1911,
+   "x": 0.4819,
+   "y": 0.2392,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "BrilliantSignature-1Regu"
+  },
+  {
+   "id": "modelo-51-tx-2",
+   "kind": "text",
+   "text": "amo demais.",
+   "family": "poppins",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.0508,
+   "x": 0.4818,
+   "y": 0.3044,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "Aileron-Regular"
+  },
+  {
+   "id": "modelo-51-tx-3",
+   "kind": "text",
+   "text": "Casabranca",
+   "family": "yesteryear",
+   "color": "#68a9dd",
+   "align": "center",
+   "fontSize": 0.0695,
+   "x": 0.6274,
+   "y": 0.749,
+   "scale": 1,
+   "rotation": 4.4,
+   "opacity": 1,
+   "_fonte": "BrittanySignatureRegular"
+  }
+ ],
+ "areas": [
+  {
+   "x": 0.3721,
+   "y": 0.3919,
+   "width": 0.5771,
+   "height": 0.3246,
+   "radius": 0,
+   "rotation": 4.82,
+   "cx": 0.6606256367247781,
+   "cy": 0.5541585816277398
+  },
+  {
+   "x": 0.1439,
+   "y": 0.4756,
+   "width": 0.2548,
+   "height": 0.2302,
+   "radius": 0,
+   "rotation": -9.33,
+   "cx": 0.2712331903083937,
+   "cy": 0.5907043941247857
+  }
+ ]
+}

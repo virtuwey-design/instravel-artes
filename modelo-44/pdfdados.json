@@ -1,0 +1,63 @@
+{
+ "layers": [
+  {
+   "id": "modelo-44-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-44/p1.webp?v=2",
+   "x": 0.3293,
+   "y": 0.1691,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1824,
+   "ratio": 1.0944,
+   "_i": 3
+  },
+  {
+   "id": "modelo-44-el-2",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-44/p2.webp?v=2",
+   "x": 0.3541,
+   "y": 0.8048,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1019,
+   "ratio": 1.0,
+   "_i": 4
+  }
+ ],
+ "textos": [],
+ "areas": [
+  {
+   "x": 0.0,
+   "y": -0.0208,
+   "width": 1.0,
+   "height": 0.375,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.5,
+   "cy": 0.16666666666666666
+  },
+  {
+   "x": 0.0,
+   "y": 0.3125,
+   "width": 1.0,
+   "height": 0.375,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.5,
+   "cy": 0.5
+  },
+  {
+   "x": -0.0267,
+   "y": 0.6667,
+   "width": 1.0532,
+   "height": 0.3333,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.49987139525236907,
+   "cy": 0.8333333439297146
+  }
+ ]
+}
