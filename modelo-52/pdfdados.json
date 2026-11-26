@@ -1,0 +1,106 @@
+{
+ "layers": [
+  {
+   "id": "modelo-52-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-52/p1.webp?v=2",
+   "x": 0.5574,
+   "y": 0.2357,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.3731,
+   "ratio": 2.9632,
+   "_i": 1
+  },
+  {
+   "id": "modelo-52-el-2",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-52/p2.webp?v=2",
+   "x": 0.2639,
+   "y": 0.3239,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.213,
+   "ratio": 2.3711,
+   "_i": 2
+  },
+  {
+   "id": "modelo-52-el-3",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-52/p3.webp?v=2",
+   "x": 0.4581,
+   "y": 0.4384,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.038,
+   "ratio": 1.0513,
+   "_i": 3
+  }
+ ],
+ "textos": [
+  {
+   "id": "modelo-52-tx-1",
+   "kind": "text",
+   "text": "a mar",
+   "family": "dancing",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.0544,
+   "x": 0.6055,
+   "y": 0.2791,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "HalimunRegular"
+  },
+  {
+   "id": "modelo-52-tx-2",
+   "kind": "text",
+   "text": "paz",
+   "family": "display",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.1976,
+   "x": 0.2995,
+   "y": 0.3709,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "Gliker-SemiBold"
+  },
+  {
+   "id": "modelo-52-tx-3",
+   "kind": "text",
+   "text": "SENTE A",
+   "family": "quicksandBold",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.0342,
+   "x": 0.2599,
+   "y": 0.3228,
+   "scale": 1,
+   "rotation": -4.0,
+   "opacity": 1,
+   "_fonte": "Comica-Regular"
+  },
+  {
+   "id": "modelo-52-tx-4",
+   "kind": "text",
+   "text": "desse lugar",
+   "family": "quicksandBold",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.0312,
+   "x": 0.326,
+   "y": 0.4327,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "Comica-Regular"
+  }
+ ],
+ "areas": []
+}
