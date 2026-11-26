@@ -1,0 +1,32 @@
+{
+ "layers": [
+  {
+   "id": "modelo-18-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-18/p1.webp?v=2",
+   "x": 0.7542,
+   "y": 0.789,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1648,
+   "ratio": 0.9834,
+   "_i": 2
+  },
+  {
+   "id": "modelo-18-el-2",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-18/p2.webp?v=2",
+   "x": 0.4054,
+   "y": 0.334,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1889,
+   "ratio": 0.8095,
+   "_i": 3
+  }
+ ],
+ "textos": [],
+ "areas": []
+}

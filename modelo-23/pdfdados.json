@@ -1,0 +1,91 @@
+{
+ "layers": [
+  {
+   "id": "modelo-23-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-23/p1.webp?v=2",
+   "x": 0.4998,
+   "y": 0.2308,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.2963,
+   "ratio": 5.0,
+   "_i": 1
+  },
+  {
+   "id": "modelo-23-el-2",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-23/p2.webp?v=2",
+   "x": 0.4999,
+   "y": 0.5402,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.2241,
+   "ratio": 0.8996,
+   "_i": 2
+  },
+  {
+   "id": "modelo-23-el-3",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-23/p3.webp?v=2",
+   "x": 0.7702,
+   "y": 0.1087,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1407,
+   "ratio": 0.9806,
+   "_i": 3
+  }
+ ],
+ "textos": [
+  {
+   "id": "modelo-23-tx-1",
+   "kind": "text",
+   "text": "Era",
+   "family": "quicksandMedium",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.092,
+   "x": 0.5004,
+   "y": 0.0988,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "MoreSugarThin"
+  },
+  {
+   "id": "modelo-23-tx-2",
+   "kind": "text",
+   "text": "SOL",
+   "family": "playfair",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.2247,
+   "x": 0.5071,
+   "y": 0.1859,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "Giaza"
+  },
+  {
+   "id": "modelo-23-tx-3",
+   "kind": "text",
+   "text": "o que eu precisava",
+   "family": "quicksandMedium",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.0588,
+   "x": 0.5013,
+   "y": 0.2607,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "MoreSugarThin"
+  }
+ ],
+ "areas": []
+}
