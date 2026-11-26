@@ -1,0 +1,181 @@
+{
+ "layers": [
+  {
+   "id": "modelo-40-el-11",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p11.webp?v=2",
+   "x": 0.5,
+   "y": 0.5001,
+   "scale": 1,
+   "rotation": 0,
+   "opacity": 1,
+   "width": 0.5478,
+   "ratio": 0.382,
+   "_vec": 1,
+   "_under": true
+  },
+  {
+   "id": "modelo-40-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p1.webp?v=2",
+   "x": 0.7524,
+   "y": 0.5428,
+   "scale": 1,
+   "rotation": 17.2,
+   "opacity": 1,
+   "width": 0.1843,
+   "ratio": 1.0,
+   "_i": 4
+  },
+  {
+   "id": "modelo-40-el-2",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p2.webp?v=2",
+   "x": 0.7329,
+   "y": 0.5928,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1528,
+   "ratio": 1.0784,
+   "_i": 5
+  },
+  {
+   "id": "modelo-40-el-3",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p3.webp?v=2",
+   "x": 0.3337,
+   "y": 0.0977,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.2972,
+   "ratio": 1.0,
+   "_i": 6
+  },
+  {
+   "id": "modelo-40-el-4",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p4.webp?v=2",
+   "x": 0.6484,
+   "y": 0.3457,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1685,
+   "ratio": 1.0,
+   "_i": 7
+  },
+  {
+   "id": "modelo-40-el-5",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p5.webp?v=2",
+   "x": 0.2885,
+   "y": 0.8274,
+   "scale": 1,
+   "rotation": 8.14,
+   "opacity": 1,
+   "width": 0.1676,
+   "ratio": 1.0647,
+   "_i": 8
+  },
+  {
+   "id": "modelo-40-el-6",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p6.webp?v=2",
+   "x": 0.3823,
+   "y": 0.8776,
+   "scale": 1,
+   "rotation": -20.95,
+   "opacity": 1,
+   "width": 0.1815,
+   "ratio": 1.0,
+   "_i": 9
+  },
+  {
+   "id": "modelo-40-el-7",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p7.webp?v=2",
+   "x": 0.2672,
+   "y": 0.3913,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.162,
+   "ratio": 1.0,
+   "_i": 10
+  },
+  {
+   "id": "modelo-40-el-8",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p8.webp?v=2",
+   "x": 0.7461,
+   "y": 0.7435,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1259,
+   "ratio": 1.0,
+   "_i": 11
+  },
+  {
+   "id": "modelo-40-el-9",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p9.webp?v=2",
+   "x": 0.7246,
+   "y": 0.1753,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1361,
+   "ratio": 1.0,
+   "_i": 12
+  },
+  {
+   "id": "modelo-40-el-10",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-40/p10.webp?v=2",
+   "x": 0.9553,
+   "y": 0.0293,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1759,
+   "ratio": 1.0,
+   "_i": 13
+  }
+ ],
+ "textos": [],
+ "areas": [
+  {
+   "x": 0.3137,
+   "y": 0.1301,
+   "width": 0.3732,
+   "height": 0.2015,
+   "radius": 0,
+   "rotation": 10.81,
+   "cx": 0.5003530124207828,
+   "cy": 0.23085511602973688
+  },
+  {
+   "x": 0.2827,
+   "y": 0.3797,
+   "width": 0.3732,
+   "height": 0.2015,
+   "radius": 0,
+   "rotation": -11.41,
+   "cx": 0.46929336150660006,
+   "cy": 0.48046388908675075
+  },
+  {
+   "x": 0.3417,
+   "y": 0.6238,
+   "width": 0.3732,
+   "height": 0.2015,
+   "radius": 0,
+   "rotation": 10.09,
+   "cx": 0.5282838741817505,
+   "cy": 0.7246083542750321
+  }
+ ]
+}

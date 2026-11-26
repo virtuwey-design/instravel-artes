@@ -1,0 +1,140 @@
+{
+ "layers": [
+  {
+   "id": "modelo-38-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-38/p1.webp?v=2",
+   "x": 0.5874,
+   "y": 0.4865,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.625,
+   "ratio": 1.5,
+   "_i": 1
+  },
+  {
+   "id": "modelo-38-el-2",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-38/p2.webp?v=2",
+   "x": 0.4398,
+   "y": 0.6653,
+   "scale": 1,
+   "rotation": 11.12,
+   "opacity": 1,
+   "width": 0.625,
+   "ratio": 1.5,
+   "_i": 3
+  },
+  {
+   "id": "modelo-38-el-3",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-38/p3.webp?v=2",
+   "x": 0.2566,
+   "y": 0.5163,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.2824,
+   "ratio": 1.0816,
+   "_i": 5
+  },
+  {
+   "id": "modelo-38-el-4",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-38/p4.webp?v=2",
+   "x": 0.7618,
+   "y": 0.5898,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.2194,
+   "ratio": 1.0,
+   "_i": 6
+  },
+  {
+   "id": "modelo-38-el-5",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-38/p5.webp?v=2",
+   "x": 0.5047,
+   "y": 0.3058,
+   "scale": 1,
+   "rotation": -0.0,
+   "opacity": 1,
+   "width": 0.4602,
+   "ratio": 1.6678,
+   "_i": 7
+  },
+  {
+   "id": "modelo-38-el-6",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-38/p6.webp?v=2",
+   "x": 0.6505,
+   "y": 0.2209,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.0357,
+   "ratio": 1.1282,
+   "_i": 8
+  }
+ ],
+ "textos": [
+  {
+   "id": "modelo-38-tx-1",
+   "kind": "text",
+   "text": "viagem dos",
+   "family": "display",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.0799,
+   "x": 0.5779,
+   "y": 0.2338,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "Type3 (77 0 R)",
+   "effect": "contorno",
+   "effectColor": "#000000"
+  },
+  {
+   "id": "modelo-38-tx-2",
+   "kind": "text",
+   "text": "SONHOS",
+   "family": "display",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.0799,
+   "x": 0.5779,
+   "y": 0.2771,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "Type3 (78 0 R)",
+   "effect": "contorno",
+   "effectColor": "#000000"
+  }
+ ],
+ "areas": [
+  {
+   "x": 0.3335,
+   "y": 0.4146,
+   "width": 0.3664,
+   "height": 0.1548,
+   "radius": 0,
+   "rotation": 0.0,
+   "cx": 0.5167079407491801,
+   "cy": 0.4920386865682246
+  },
+  {
+   "x": 0.1853,
+   "y": 0.5856,
+   "width": 0.3664,
+   "height": 0.1548,
+   "radius": 0,
+   "rotation": 11.12,
+   "cx": 0.36852289203288335,
+   "cy": 0.6629774871970655
+  }
+ ]
+}
