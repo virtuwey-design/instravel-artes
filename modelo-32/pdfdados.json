@@ -1,0 +1,76 @@
+{
+ "layers": [
+  {
+   "id": "modelo-32-el-1",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-32/p1.webp?v=2",
+   "x": 0.44,
+   "y": 0.4891,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.7602,
+   "ratio": 1.1499,
+   "_i": 2
+  },
+  {
+   "id": "modelo-32-el-2",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-32/p2.webp?v=2",
+   "x": 0.5682,
+   "y": 0.1986,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.5028,
+   "ratio": 4.8482,
+   "_i": 3
+  },
+  {
+   "id": "modelo-32-el-3",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-32/p3.webp?v=2",
+   "x": 0.7909,
+   "y": 0.6334,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1444,
+   "ratio": 0.975,
+   "_i": 4
+  },
+  {
+   "id": "modelo-32-el-4",
+   "kind": "image",
+   "uri": "https://raw.githubusercontent.com/virtuwey-design/instravel-artes/main/modelo-32/p4.webp?v=2",
+   "x": 0.2982,
+   "y": 0.1395,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "width": 0.1315,
+   "ratio": 0.9595,
+   "_i": 5
+  }
+ ],
+ "textos": [
+  {
+   "id": "modelo-32-tx-1",
+   "kind": "text",
+   "text": "\u00abTudo que\nQueria hoje!\u00bb",
+   "family": "display",
+   "color": "#ffffff",
+   "align": "center",
+   "fontSize": 0.067,
+   "x": 0.5774,
+   "y": 0.1383,
+   "scale": 1,
+   "rotation": 0.0,
+   "opacity": 1,
+   "_fonte": "CooperBT-Light",
+   "effect": "sombra",
+   "effectColor": "#000000"
+  }
+ ],
+ "areas": []
+}
